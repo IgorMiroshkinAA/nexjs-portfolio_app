@@ -39,7 +39,7 @@ export const NavLinks = [
     {
         name: "Projects",
         icon: RxDashboard,
-        link: "/my-projects",
+        link: "/projects",
     },
 ];
 
